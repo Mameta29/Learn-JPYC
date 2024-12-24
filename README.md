@@ -1,4 +1,4 @@
-本リポジトリは Stable coin 理解のための私の写経用である。
+**本リポジトリは Stable coin 理解のための私の写経用である。**
 なお、以下[JPYC 公式 README](https://github.com/jcam1/JPYCv2/blob/main/japanese/README.md)をそのまま転載してきている。
 
 # JPYC - 日本円ステーブルコインプロトコル
